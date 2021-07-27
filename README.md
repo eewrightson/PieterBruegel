@@ -6,6 +6,7 @@
        layout="vertical">
 
 Pieter Bruegel (also Brueghel or Breughel) the Elder (/ˈbrɔɪɡəl/,[2][3][4] also US: /ˈbruːɡəl/;[5][6] Dutch: [ˈpitər ˈbrøːɣəl] (About this soundlisten); c. 1525–1530 – 9 September 1569) was the most significant artist of Dutch and Flemish Renaissance painting, a painter and printmaker, known for his landscapes and peasant scenes (so-called genre painting); he was a pioneer in making both types of subject the focus in large paintings.
+<param ve-image url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/641px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg>
 
 He was a formative influence on Dutch Golden Age painting and later painting in general in his innovative choices of subject matter, as one of the first generation of artists to grow up when religious subjects had ceased to be the natural subject matter of painting. He also painted no portraits, the other mainstay of Netherlandish art. After his training and travels to Italy, he returned in 1555 to settle in Antwerp, where he worked mainly as a prolific designer of prints for the leading publisher of the day. Only towards the end of the decade did he switch to make painting his main medium, and all his famous paintings come from the following period of little more than a decade before his early death, when he was probably in his early forties, and at the height of his powers.
 <param ve-map center="Q12892" zoom="7">
