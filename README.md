@@ -11,5 +11,7 @@ He was a formative influence on Dutch Golden Age painting and later painting in 
 <param ve-map center="Q12892" zoom="7">
 
 As well as looking forwards, his art reinvigorates medieval subjects such as marginal drolleries of ordinary life in illuminated manuscripts, and the calendar scenes of agricultural labours set in landscape backgrounds, and puts these on a much larger scale than before, and in the expensive medium of oil painting. He does the same with the fantastic and anarchic world developed in Renaissance prints and book illustrations.[7]
+<param ve-image url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Pieter_Bruegel_d._%C3%84._106.jpg>
 
 He is sometimes referred to as "Peasant Bruegel", to distinguish him from the many later painters in his family, including his son Pieter Brueghel the Younger (1564–1638). From 1559, he dropped the 'h' from his name and signed his paintings as Bruegel; his relatives continued to use "Brueghel" or "Breughel".
+<param ve-image url=https://upload.wikimedia.org/wikipedia/commons/7/70/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg>
