@@ -5,7 +5,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg/2560px-Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg" 
        layout="vertical">
 
-<param ve-entity eid="Q43270"> <!--Bruegel-->
+<param ve-entity eid="Q43270"> <!--Pieter Bruegel-->
 
 Pieter Bruegel (also Brueghel or Breughel) the Elder ; c. 1525–1530 – 9 September 1569) was the most significant artist of Dutch and Flemish Renaissance painting, a painter and printmaker, known for his landscapes and peasant scenes (so-called genre painting); he was a pioneer in making both types of subject the focus in large paintings.
 <param ve-image fit="contain" url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/641px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg>
