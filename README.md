@@ -14,6 +14,7 @@ Pieter Bruegel (also Brueghel or Breughel) the Elder ; c. 1525–1530 – 9 Se
 
 He was a formative influence on Dutch Golden Age painting and later painting in general in his innovative choices of subject matter, as one of the first generation of artists to grow up when religious subjects had ceased to be the natural subject matter of painting. He also painted no portraits, the other mainstay of Netherlandish art. After his training and travels to Italy, he returned in 1555 to settle in Antwerp, where he worked mainly as a prolific designer of prints for the leading publisher of the day. Only towards the end of the decade did he switch to make painting his main medium, and all his famous paintings come from the following period of little more than a decade before his early death, when he was probably in his early forties, and at the height of his powers.
 <param ve-map center="Q12892" zoom="7">
+<param ve-entity eid="Q661566"> <!--Dutch Golden Age-->
 
 As well as looking forwards, his art reinvigorates medieval subjects such as marginal drolleries of ordinary life in illuminated manuscripts, and the calendar scenes of agricultural labours set in <span data-click-image-zoomto="2007,725,670,897">landscape backgrounds</span>, and puts these on a much larger scale than before, and in the expensive medium of oil painting. He does the same with the fantastic and anarchic world developed in Renaissance prints and book illustrations.[7]
 <param ve-image url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Pieter_Bruegel_d._%C3%84._106.jpg
