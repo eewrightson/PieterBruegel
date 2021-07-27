@@ -1,50 +1,14 @@
-# Pieter Bruegel
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Pieter Bruegel" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg/2560px-Pieter_Bruegel_der_%C3%84ltere_-_Landschaft_mit_der_Flucht_nach_%C3%84gypten.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+Pieter Bruegel (also Brueghel or Breughel) the Elder (/ˈbrɔɪɡəl/,[2][3][4] also US: /ˈbruːɡəl/;[5][6] Dutch: [ˈpitər ˈbrøːɣəl] (About this soundlisten); c. 1525–1530 – 9 September 1569) was the most significant artist of Dutch and Flemish Renaissance painting, a painter and printmaker, known for his landscapes and peasant scenes (so-called genre painting); he was a pioneer in making both types of subject the focus in large paintings.
 
-# Sample visual essay
+He was a formative influence on Dutch Golden Age painting and later painting in general in his innovative choices of subject matter, as one of the first generation of artists to grow up when religious subjects had ceased to be the natural subject matter of painting. He also painted no portraits, the other mainstay of Netherlandish art. After his training and travels to Italy, he returned in 1555 to settle in Antwerp, where he worked mainly as a prolific designer of prints for the leading publisher of the day. Only towards the end of the decade did he switch to make painting his main medium, and all his famous paintings come from the following period of little more than a decade before his early death, when he was probably in his early forties, and at the height of his powers.
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+As well as looking forwards, his art reinvigorates medieval subjects such as marginal drolleries of ordinary life in illuminated manuscripts, and the calendar scenes of agricultural labours set in landscape backgrounds, and puts these on a much larger scale than before, and in the expensive medium of oil painting. He does the same with the fantastic and anarchic world developed in Renaissance prints and book illustrations.[7]
 
-# Basic usage
-
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
-
+He is sometimes referred to as "Peasant Bruegel", to distinguish him from the many later painters in his family, including his son Pieter Brueghel the Younger (1564–1638). From 1559, he dropped the 'h' from his name and signed his paintings as Bruegel; his relatives continued to use "Brueghel" or "Breughel".
