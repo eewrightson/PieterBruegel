@@ -26,6 +26,7 @@ He is sometimes referred to as "Peasant Bruegel", to distinguish him from the ma
 
 Travel
 In 1551 Bruegel became a free master in the Guild of Saint Luke of Antwerp. He set off for Italy soon after, probably by way of France. He visited Rome and, rather adventurously for the period, by 1552 he had reached Reggio Calabria at the southern tip of the mainland, where a drawing records the city in flames after a Turkish raid.[19] He probably continued to Sicily, but by 1553 was back in Rome. There he met the miniaturist Giulio Clovio, whose will of 1578 lists paintings by Bruegel; in one case a joint work. These works, apparently landscapes, have not survived, but marginal miniatures in manuscripts by Clovio are attributed to Bruegel.[20] 
-<param ve-map center="Q220" zoom="8">
+<param ve-map center="Q220" zoom="7">
 
 He left Italy by 1554, and had reached Antwerp by 1555, when the set of prints to his designs known as the Large Landscapes were published by Hieronymus Cock, the most important print publisher of northern Europe. Bruegel's return route is uncertain, but much of the debate over it was made irrelevant in the 1980s when it was realized that the celebrated series of large drawings of mountain landscapes thought to have been made on the trip were not by Bruegel at all. However, all the drawings from the trip that are considered authentic are of landscapes; unlike most other 16th-century artists visiting Rome he seems to have ignored both classical ruins and contemporary buildings.
+<param ve-map center="Q12892" zoom="7">
