@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "House",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ba2e6c4d625b7a4a30c10ea87e09a1f42968d7fa4bd2615aee38d9a601a93307",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1866.616943359375,798.1697387695312,381.498046875,238.09808349609375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#01fa2708-aeb7-4b71-b99e-29fa08a940e6"
+  }
+]
