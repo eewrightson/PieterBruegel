@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Bird trap",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/ba2e6c4d625b7a4a30c10ea87e09a1f42968d7fa4bd2615aee38d9a601a93307",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1146.9112548828125,1685.6263427734375,1109.3206787109375,462.6678466796875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e1bf1361-40a3-412e-8784-16881b81e536"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "House",
         "purpose": "commenting"
       }
