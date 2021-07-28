@@ -29,4 +29,11 @@ In 1551 Bruegel became a free master in the Guild of Saint Luke of Antwerp. He s
 <param ve-map center="Q220" zoom="7">
 
 He left Italy by 1554, and had reached Antwerp by 1555, when the set of prints to his designs known as the Large Landscapes were published by Hieronymus Cock, the most important print publisher of northern Europe. Bruegel's return route is uncertain, but much of the debate over it was made irrelevant in the 1980s when it was realized that the celebrated series of large drawings of mountain landscapes thought to have been made on the trip were not by Bruegel at all. However, all the drawings from the trip that are considered authentic are of landscapes; unlike most other 16th-century artists visiting Rome he seems to have ignored both classical ruins and contemporary buildings.
-<param ve-map center="Q12892" zoom="7">
+<param ve-map
+       zoom="2"
+       marker-type="circle"
+       radius="4" 
+       stroke-width="0"
+       fill="blue" 
+       fill-opacity="1">
+<param ve-map-layer geojson url="centralbrazil.json">
